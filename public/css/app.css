@@ -1,0 +1,9 @@
+.full__media{
+    width: 100%!important;
+}
+
+@media (max-width: 800px) {
+    .full__media{
+        width: 100%!important;
+    }
+  }

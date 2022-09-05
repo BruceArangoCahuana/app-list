@@ -32,7 +32,7 @@ function App() {
   return (
     <Fragment>
        <div className="container-fluid">
-            <div className='col-7 m-auto mt-4'>
+            <div className='col-7 full__media m-auto mt-4 w-100'>
               <h1 className='text-center'>Lista de  tareas con typescript</h1>
                 <form 
                 onSubmit={registrar}
